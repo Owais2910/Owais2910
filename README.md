@@ -29,6 +29,7 @@ English (Fluent) • Urdu (Native) • Hindi (Conversational)
 
 ### 📊 Data Professional Survey Dashboard
 > Power BI | Self-Initiated, 2026
+
 - Built an interactive dashboard visualising survey responses from 600+ data professionals
 - Cleaned and transformed raw data using Power Query
 - Visualised salary trends, language preferences, and job satisfaction metrics
