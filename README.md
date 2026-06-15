@@ -32,6 +32,7 @@ English (Fluent) • Urdu (Native) • Hindi (Conversational)
 - Built an interactive dashboard visualising survey responses from 600+ data professionals
 - Cleaned and transformed raw data using Power Query
 - Visualised salary trends, language preferences, and job satisfaction metrics
+- [View Repository](https://github.com/Owais2910/data-professional-survey-dashboard)
 
 ---
 
